@@ -1,6 +1,6 @@
 # Site
 title:              Mila yuli yanti
-bio:                'Minimal, one column jekyll theme.'
+bio:                'mila yuli yanti'
 description:        "sistem informasi"
 reading_time:       true
 words_per_minute:   200
@@ -11,7 +11,7 @@ locale:             en_US
 url:                http://milayuliyanti.github.io/mila99/#/Moon
 
 # Jekyll
-permalink:          /:title/
+permalink:          /:mila yuli yanti/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
